@@ -43,8 +43,8 @@
 
 
 ### Q7. What is the Difference between react and react native? Which one is library or framework?
-|React JS|React Native|
-|Category|----|----|
+|Category|React JS|React Native|
+|----|----|----|
 |Type |React js is a library | React Native is a framework|
 |Definition	|A JavaScript library, widely used for developing the user interface.|A cross-platform mobile framework used for developing native mobile applications.|
 |User Interface	|ReactJS renders HTML tags in its user interface. React components can include simple HTML tags|React Native renders JSX in its user interface. React Native supports specific JSX tags which are used.|
