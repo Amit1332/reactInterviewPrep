@@ -10,7 +10,11 @@
 
 |class Component |Functional Component |
 |-----|-----|
-|Functional components are written as a JavaScript function.	|Class components are written as a JavaScript class.
+|Functional components are written as a JavaScript function.|Class components are written as a JavaScript class.|
+|Functional components do not have a state or lifecycle methods.|Class components have a state and can implement lifecycle methods like componentDidMount and componentDidUpdate.|
+|Faster as they do not have state and lifecycle, react needs to do less work to render these components.|Slower as they have state and lifecycle, react needs to do comparatively more work to render these components.|
+|Functional components tend to be shorter and more concise	|Class components require the boilerplate code, such as a constructor method and the use of “this” to access props and state.|
+|Functional components do not use “this” at all, which makes them easier to understand for beginners.	|Class components use the “this” keyword is used to refer to the current instance of the component which can be confusing for new developers.
 |
 
 

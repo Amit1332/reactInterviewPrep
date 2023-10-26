@@ -14,12 +14,12 @@
     - onMouseOver
     - onMouseOut
 
-    ### Q2. How do you pass data from parent to child
+ ### Q2. How do you pass data from parent to child
      - src/Day2/Counter
-     -src/Day2/DayOne
+     - src/Day2/DayOne
 
 
-     ### Q3.Routing Implementation 
+### Q3.Routing Implementation 
      - package name is  react-router-dom for routing
 
      ### Q4.Routing Implementation 
@@ -29,10 +29,10 @@
 ### Q5. How do you switch one component to another, Conditional Rendering
       - src/Day2/Conditional
 
-       ### Q6. What is lazy loading in react ?
-       -- To prevent unnecessary or unappropiate on the browser at that time we use lazy loading for rendering on component like for uploading images or videos or full content of the website, basically it allows to load the component .
+### Q6. What is lazy loading in react ?
+      - To prevent unnecessary or unappropiate on the browser at that time we use lazy loading for rendering on component like for uploading images or videos or full content of the website, basically it allows to load the component .
 
-       -component used in lazy loading- 
+      -component used in lazy loading- 
          -suspense
          -lazy  import from react
 
