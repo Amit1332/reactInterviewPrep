@@ -8,8 +8,8 @@
 
 ### 3 . Difference between class based and function based component 
 
-||class Component || Functional Component ||
-|-----|----|
+|class Component |Functional Component |
+|-----|-----|
 |Functional components are written as a JavaScript function.	|Class components are written as a JavaScript class.
 |
 

@@ -1,18 +1,18 @@
 ## Day 2 - 
 ### Q1. - What is an event in react?
 
- - 1. React can perform actions based on user events
- - 2.React events are written in camelCase syntax
- - 3.React Events is known as Syntetic Events has own events
+ - React can perform actions based on user events
+ - React events are written in camelCase syntax
+ - React Events is known as Syntetic Events has own events
 
 
  - Here are the exxamples -
-    -onClick
-    -onChange
-    -onSubmit
-    -onKeyPress
-    -onMouseOver
-    -onMouseOut
+    - onClick
+    - onChange
+    - onSubmit
+    - onKeyPress
+    - onMouseOver
+    - onMouseOut
 
     ### Q2. How do you pass data from parent to child
      - src/Day2/Counter
@@ -26,7 +26,7 @@
       - src/Day2/RoutingImpl
 
 
-      ### Q5. How do you switch one component to another, Conditional Rendering
+### Q5. How do you switch one component to another, Conditional Rendering
       - src/Day2/Conditional
 
        ### Q6. What is lazy loading in react ?
